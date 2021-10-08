@@ -8,3 +8,10 @@ in one time, we have reduced the congestion window in the high congested path to
 the delay of transmission lower than before and equal to the delay of transmission the
 data in the less congested subows to let all the congestion windows arrive the destination
 in the same time and the acknowledgment of the global window is sent.
+
+Regards,
+
+Computer Systems Enginner Drici Oussama.
+
+For any information contact me at o.drici@esi-sba.dz
+
