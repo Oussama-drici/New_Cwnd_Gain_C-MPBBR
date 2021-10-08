@@ -9,6 +9,15 @@ the delay of transmission lower than before and equal to the delay of transmissi
 data in the less congested subows to let all the congestion windows arrive the destination
 in the same time and the acknowledgment of the global window is sent.
 
+#Instructions:
+
+How to Run:
+
+Just compile and install is as a module. Change the default Congestion Algorithm to "NCG_C-MPBBR"
+
+Above development was based on the MPTCP v0.95.0 deployed in Linux kernel version of v4.19.206 
+
+
 Regards,
 
 Computer Systems Enginner Drici Oussama.
