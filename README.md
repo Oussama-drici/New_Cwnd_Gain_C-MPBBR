@@ -1,4 +1,4 @@
-In normal situation of MPTCP with all same bandwidth in all paths, uncoupled BBRv1
+In normal situation of MPTCP with the same bandwidth in all paths, uncoupled BBRv1
 in MPTCP mainly improves its rates in the total of all the paths, but when one path
 is congested the performance of uncoupled BBR1 gets lower, because of the out of order
 problem.
